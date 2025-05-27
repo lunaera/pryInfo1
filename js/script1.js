@@ -1,5 +1,6 @@
-console.log("hola mundo!!");
 
-let a = 5;
+
+let a = 89;
 let b = 6;
-console.log("la suma es: " + a + b);
+let c = 4;
+console.log("la suma es: " + a + b + c);
