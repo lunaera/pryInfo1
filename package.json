@@ -1,0 +1,20 @@
+{
+  "name": "pryinfo1",
+  "version": "1.0.0",
+  "description": "Ejemplo 1 en informática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunaera/pryInfo1.git"
+  },
+  "keywords": [],
+  "author": "Erahin Pacheco Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunaera/pryInfo1/issues"
+  },
+  "homepage": "https://github.com/lunaera/pryInfo1#readme"
+}
