@@ -9,3 +9,6 @@ console.log(arayEdades.map((edad) => edad + 1));
 console.log("hice cambios en el archivo script2.js");
 
 // Tarea calificada nuevamente
+
+
+// Tarea calificada nuevamente
