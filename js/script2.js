@@ -10,3 +10,5 @@ console.log("hice cambios en el archivo script2.js");
 
 
 console.log("hice cambios en el archivo script2.js");
+console.log("hice cambios en el archivo script2.js");
+console.log("hice cambios en el archivo script2.js");
