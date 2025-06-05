@@ -10,3 +10,5 @@ console.log(t * w);
 
 // perdón me equivoqué corrige esta parte:
 // corregido por favor calificar
+
+// okay corregido
