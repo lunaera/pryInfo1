@@ -10,3 +10,8 @@ console.log(t * w);
 
 // perdón me equivoqué corrige esta parte:
 // corregido por favor calificar
+
+
+
+const p = 5;
+const q = 34;
