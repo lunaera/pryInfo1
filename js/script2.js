@@ -16,3 +16,7 @@ console.log(t * w);
 const p = 5;
 const q = 34;
 // okay corregido
+
+
+
+// yo tambien hice cambios en mi archivo local
