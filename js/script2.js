@@ -21,3 +21,7 @@ const q = 34;
 
 // yo tambien hice cambios en mi archivo local
 console.log("hice nuevos cambios en el archivo script2.js")
+
+
+
+// yo tambien hice otros cambios en mi propio archivo cambios en mi archivo local
