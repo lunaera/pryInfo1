@@ -10,3 +10,6 @@ console.log("la suma es: " + a + b + c);
 
 
 // estee es mi script del anfitiron
+
+
+// como anfitrion hice otro cambio es mi script del anfitiron
