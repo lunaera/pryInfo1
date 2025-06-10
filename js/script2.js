@@ -16,3 +16,5 @@ console.log(t * w);
 const p = 5;
 const q = 34;
 // okay corregido
+
+console.log("hice nuevos cambios en el archivo script2.js")
