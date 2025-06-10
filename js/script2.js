@@ -29,3 +29,6 @@ console.log("hice otros nuevos cambios en el archivo script2.js")
 
 
 // mis cambios no afectan a los demás
+
+
+// mi nuevo cambio tampoco afecta a los demás
