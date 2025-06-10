@@ -17,10 +17,7 @@ const p = 5;
 const q = 34;
 // okay corregido
 
-<<<<<<< HEAD
 
 
 // yo tambien hice cambios en mi archivo local
-=======
 console.log("hice nuevos cambios en el archivo script2.js")
->>>>>>> 05d9d9217a3d3e9dc276bcfb712230013158800d
