@@ -32,3 +32,5 @@ console.log("hice otros nuevos cambios en el archivo script2.js")
 
 
 // mi nuevo cambio tampoco afecta a los demás
+
+// soy luna mis ultimos cambios okay?
