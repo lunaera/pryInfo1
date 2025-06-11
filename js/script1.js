@@ -18,3 +18,6 @@ console.log("la suma es: " + a + b + c);
 
 // cmnios directos en main
 // cambios directos en main
+
+
+// hice cambios desde mainPrevio para despùes fisionar con main principal
